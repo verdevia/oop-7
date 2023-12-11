@@ -1,0 +1,3 @@
+﻿  leapyearcheck.cpp
+D:\НУПП\OOP\OOP lab7 Stefanovych\OOP lab7\OOP lab7\leapyearcheck.cpp(48,56): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  OOP lab7.vcxproj -> D:\НУПП\OOP\OOP lab7 Stefanovych\OOP lab7\x64\Debug\OOP lab7.exe
